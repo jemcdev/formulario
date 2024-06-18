@@ -26,7 +26,6 @@
     git commit -m "mensaje de los cambios"
 ```
 5. git push origin master
-
-   ``` bash
-   git púsh origin master
 ``` bash
+    git push origin master
+```
